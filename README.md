@@ -14,5 +14,7 @@ We can also use a simple convolutional neural network model but we MobileNetV2 s
 I download the dataset from the drive link on this github profile.
 https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/README.md
 
-## Refrences-
+## References-
+- https://www.data-stats.com/implementing-face-mask-detector-model-in-real-time-video-streaming/
+- https://www.data-stats.com/face-mask-detection-using-tensorflow-keras-opencv/
 
